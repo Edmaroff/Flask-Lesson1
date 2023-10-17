@@ -6,6 +6,6 @@
 **Вебинар**: 1    
 **Тема**: _«Flask»_
 
-[Задание 1](https://github.com/Edmaroff/Flask-Lesson1/initial_task.md)  
+[Задание](https://github.com/Edmaroff/Flask-Lesson1/blob/main/initial_task.md)  
 
 ---
